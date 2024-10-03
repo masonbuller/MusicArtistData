@@ -5,24 +5,6 @@ Project consists of an Access project the creates tables and relationships for S
 <br />
 <br />
 
-<img src="https://imgur.com/8E0mxPH.png" height="80%" width="80%" alt="Table relationships"/>
-
-<br>
-<img src="https://imgur.com/wZ33FrR.png" height="80%" width="80%" alt="Artists table dictionary"/>
-
-<br>
-<img src="https://imgur.com/sMUbrO4.png" height="80%" width="80%" alt="Songs table dictionary"/>
-
-<br>
-<img src="https://imgur.com/ctblHPJ.png" height="80%" width="80%" alt="Labels table dictionary"/>
-
-<br>
-<img src="https://imgur.com/6mDtQ6U.png" height="80%" width="80%" alt="Albums table dictionary"/>
-
-
-<br><br>
-
-
 <h2>Languages Used</h2>
 
 - <b>SQL</b>
@@ -32,6 +14,29 @@ Project consists of an Access project the creates tables and relationships for S
 
 - <b>Windows 10</b>
 - <b>Access</b>
+
+<br>
+
+<h3>Table Relationships</h3>
+<img src="https://imgur.com/8E0mxPH.png" height="80%" width="80%" alt="Table relationships"/>
+
+<br>
+<h3>Artists Table Dictionary</h3>
+<img src="https://imgur.com/wZ33FrR.png" height="80%" width="80%" alt="Artists table dictionary"/>
+
+<br>
+<h3>Songs Table Dictionary</h3>
+<img src="https://imgur.com/sMUbrO4.png" height="80%" width="80%" alt="Songs table dictionary"/>
+
+<br>
+<h3>Labels Table Dictionary</h3>
+<img src="https://imgur.com/ctblHPJ.png" height="80%" width="80%" alt="Labels table dictionary"/>
+
+<br>
+<h3>Albums Table Dictionary</h3>
+<img src="https://imgur.com/6mDtQ6U.png" height="80%" width="80%" alt="Albums table dictionary"/>
+
+
 
 <!--
  ```diff
