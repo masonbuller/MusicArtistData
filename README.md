@@ -1,9 +1,9 @@
 # <h1>Analyzing Music Artist's Data Using SQL</h1>
 
 <h2>Description</h2>
-Project consists of an Access project the creates tables and relationships for Spotify streaming data.
-<br />
-<br />
+<p>Project consists of an Access project the creates tables and relationships for Spotify streaming data.</p>
+<p>This project uses Access to create and display the relationships between the tables in the project. Then, an SQL script is used to create tables such as albums, labels, artists, and songs. Data is then entered and analyzed using various select queries, procedures, and views.</p>
+<br/>
 
 <h2>Languages Used</h2>
 
